@@ -1,0 +1,39 @@
+# Compiled source files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+*.old
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Python-specific files (if applicable)
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js-specific files (if applicable)
+node_modules/
+
+# Build directories
+build/
+dist/
+out/
+
+# Environment files
+.env
+.env.local
